@@ -1,0 +1,22 @@
+{
+    "Nikita@123": [
+        {
+            "NAME": "nikita",
+            "PASSWORD": "Nikita@123",
+            "DESCRIPTION": "abc",
+            "BIRTH OF DATE": "4 nov 2001",
+            "HOBBY": "dance",
+            "GANDER": "f"
+        }
+    ],
+    "Giriraj@123": [
+        {
+            "NAME": "giriraj",
+            "PASSWORD": "Giriraj@123",
+            "DESCRIPTION": "dfghj",
+            "BIRTH OF DATE": "dfghj",
+            "HOBBY": "dfghj",
+            "GANDER": "df"
+        }
+    ]
+}
